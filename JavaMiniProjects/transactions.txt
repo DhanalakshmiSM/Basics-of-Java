@@ -1,0 +1,8 @@
+Account 101 created with balance 1000.0
+Book added: 5 AM Club (ID: 101)
+Member registered: Sahana (ID: 501)
+Member 501 issued Book 101 (5 AM Club)
+Member 501 returned Book 101 (5 AM Club)
+Member 501 returned Book 101 (5 AM Club)
+Member 501 returned Book 101 (5 AM Club)
+Member registered: Bindu (ID: 502)
